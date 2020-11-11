@@ -6,9 +6,9 @@
 
 Посмотрим файлы, которые принадлежат этим юзерам в образе
 
-    find / -user flag00 какой то файл john????
+    find / -user flag00     //какой то файл john????
     
-    find / -user level00 ничего интересного
+    find / -user level00    //ничего интересного
     
 Перенаправим вывод в /dev/null, чтобы не показывать ошибки https://www.cyberciti.biz/faq/how-to-redirect-output-and-errors-to-devnull/
 
