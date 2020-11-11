@@ -20,18 +20,24 @@
     
     /rofs//usr/sbin/john
     
-В обоих лежит строка cdiiddwpgswtgt
+В обоих лежит строка
+
+    cdiiddwpgswtgt
 
 Попробуем через шифр Цезаря https://planetcalc.ru/1434/
 
 При ROT11 строка обретает хоть какой-то смысл
 
     nottoohardhere
-   
+ 
+Проверим:
+
     su flag00
  
  Вводим nottoohardhere
  
     getflag
     
+Получаем заветный флаг
+
     x24ti5gi3x0ol2eh4esiuxias
