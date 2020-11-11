@@ -2,7 +2,7 @@
 
     vim /etc/passwd
     
-Находим пользователя flag00 и level00
+Находим пользователей flag00 и level00
 
 Посмотрим файлы, которые принадлежат этим юзерам в образе
 
@@ -27,3 +27,11 @@
 При ROT11 строка обретает хоть какой-то смысл
 
     nottoohardhere
+   
+    su flag00
+ 
+ Вводим nottoohardhere
+ 
+    getflag
+    
+    x24ti5gi3x0ol2eh4esiuxias
