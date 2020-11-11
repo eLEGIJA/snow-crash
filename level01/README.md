@@ -12,7 +12,7 @@
 
     https://habr.com/ru/post/325298/
 
-На маке закходим в папку с John the Ripper, в папку run, создаем фалй с паролем и ломаем
+На маке заходим в папку с John the Ripper, в папку run, создаем файл с паролем и ломаем
 
     echo '42hDRfypTqqnw' > pass
 
