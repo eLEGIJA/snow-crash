@@ -18,7 +18,7 @@
 
     ./john pass
 
-    john pass --show
+    ./john pass --show
 
     ?:abcdefg       //пароль будет без символов ?:
 
