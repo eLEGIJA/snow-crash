@@ -26,8 +26,6 @@ https://habr.com/ru/company/ruvds/blog/416537/
 
 Открываем в Wireshark 
 
-Многа букафф непанятна................................
-
 Судя по запросам, длина у которых больше 100, кто то пытался залогиниться через tcp в ssh, причем в пользователя levelX
 
 Посмотрим что там в Analyze->Follow->TCP Stream    https://networkguru.ru/analiz-dampov-tcp-s-pomoshchyu-wireshark/
