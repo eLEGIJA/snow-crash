@@ -24,7 +24,7 @@ https://habr.com/ru/company/ruvds/blog/416537/
 
     chmod 777 level02.pcap
 
-Открываем в Wireshark 
+Открываем в Wireshark наш файл
 
 Судя по запросам, длина у которых больше 100, кто то пытался залогиниться через tcp в ssh, причем в пользователя levelX
 
@@ -43,7 +43,7 @@ https://habr.com/ru/company/ruvds/blog/416537/
     Login incorrect
     wwwbugs login:
 
-. = 0x7f = DEL (смотрим какие пакеты отвечают за . на конце у них у всех 7f = 16 ричное представление DEL), так что пароль у нас будет ft_waNDReL0L
+. = 0x7f = DEL (смотрим какие пакеты отвечают за . на конце у них у всех 7f = 16ричное представление DEL), так что пароль у нас будет ft_waNDReL0L
 
     su flag02
 
