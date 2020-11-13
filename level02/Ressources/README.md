@@ -8,11 +8,12 @@ Devices->Network->Network Settings...->Advanced->Port Forwarding-> 127.0.0.1(и�
 
     ls -la
 
-Видим какой то файл level02.pcap   https://www.reviversoft.com/ru/file-extensions/pcap
+Видим какой то файл level02.pcap 
+(https://www.reviversoft.com/ru/file-extensions/pcap)
 
 Судя по всему это пакетные данные. Файл хранит дамп сетевых данных, захваченных в режиме реального времени
 
-https://habr.com/ru/company/ruvds/blog/416537/
+(https://habr.com/ru/company/ruvds/blog/416537/)
 
 Выходим отсюда
 
@@ -28,7 +29,7 @@ https://habr.com/ru/company/ruvds/blog/416537/
 
 Судя по запросам, длина у которых больше 100, кто то пытался залогиниться через tcp в ssh, причем в пользователя levelX
 
-Посмотрим что там в Analyze->Follow->TCP Stream    https://networkguru.ru/analiz-dampov-tcp-s-pomoshchyu-wireshark/
+Посмотрим что там в Analyze->Follow->TCP Stream    (https://networkguru.ru/analiz-dampov-tcp-s-pomoshchyu-wireshark/)
 
     ..%..%..&..... ..#..'..$..&..... ..#..'..$.. .....#.....'........... .38400,38400....#.SodaCan:0....'..DISPLAY.SodaCan:0......xterm.........."........!........"..".....b........b....	B.
     ..............................1.......!.."......"......!..........."........"..".............	..
