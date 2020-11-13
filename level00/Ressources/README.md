@@ -10,7 +10,8 @@
     
     find / -user level00    //ничего интересного
     
-Перенаправим вывод в /dev/null, чтобы не показывать ошибки https://www.cyberciti.biz/faq/how-to-redirect-output-and-errors-to-devnull/
+Перенаправим вывод в /dev/null, чтобы не показывать ошибки 
+https://www.cyberciti.biz/faq/how-to-redirect-output-and-errors-to-devnull/
 
     find / -user flag00 2>/dev/null
     
@@ -24,7 +25,8 @@
 
     cdiiddwpgswtgt
 
-Попробуем через шифр Цезаря https://planetcalc.ru/1434/
+Попробуем через шифр Цезаря 
+https://planetcalc.ru/1434/
 
 При ROT11 строка обретает хоть какой-то смысл
 
