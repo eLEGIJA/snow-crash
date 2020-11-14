@@ -19,7 +19,7 @@
 
     /usr/sbin/john
     
-    /rofs//usr/sbin/john
+    /rofs/usr/sbin/john
     
 В обоих лежит строка
 
