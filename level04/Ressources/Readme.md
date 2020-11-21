@@ -23,7 +23,7 @@ x(param("x"));
 	service --status-all
 	[ + ]  apache2
 
-Значит будем пробовать посылать запросы на сервер через curl
+Значит будем пробовать посылать запросы на сервер через curl (http://www.4stud.info/web-programming/cgi.html)(https://ru.hexlet.io/courses/php-mvc/lessons/php-cgi/theory_unit)
 
 	curl localhost:4747/?x='$PATH'
 
