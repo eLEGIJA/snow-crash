@@ -14,7 +14,7 @@
 		$y = $_[0];
 		print `echo $y 2>&1`;
 	}
-x(param("x"));
+	x(param("x"));
 
 Итак, там юзается CGI (https://ru.wikipedia.org/wiki/CGI), а именно qw{param},  получается что мы сверяем занчение, которое подаем с param = "x"
 	
