@@ -9,8 +9,7 @@
     flag01:42hDRfypTqqnw:3001:3001::/home/flag/flag01:/bin/bash     //есть хэш пароля
 
 Попробуем сломать хэш пароля через John the Ripper (https://download.openwall.net/pub/projects/john/contrib/macosx/)
-
-    https://habr.com/ru/post/325298/
+(https://habr.com/ru/post/325298/)
 
 На маке заходим в папку с John the Ripper, в папку run, создаем файл с паролем и ломаем
 
